@@ -1,0 +1,11 @@
+{
+    "name": "peak-flow/peakflow-tut",
+    "description": "Peakflow Tutorials - tut.peakflow.cloud",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
